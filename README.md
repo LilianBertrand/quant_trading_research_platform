@@ -66,3 +66,8 @@ This version is designed to be stable on macOS / VS Code environments. The dashb
 - yfinance
 - Optional: scikit-learn for Random Forest regime classification
 
+
+## Live Demo
+
+https://quanttradingresearchplatform-yprk9q88wmpv9hbf4ab4yq.streamlit.app/
+
